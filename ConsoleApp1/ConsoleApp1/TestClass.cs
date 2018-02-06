@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     class TestClass
     {
+        string name = "Git new train";
     }
 }
